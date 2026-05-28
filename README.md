@@ -1,4 +1,4 @@
-# Arcaea to Malody Converter谱面转换器v1.0.1
+# Arcaea to Malody Converter谱面转换器v1.0.2
 ## 简介
 这是一个基于Python的图一乐转谱器，可将Arcaea的aff格式谱面转换为malody谱面，转换时将所有地键转化为tap，天键转化为wipe，hold转化为60宽slide，arc转化为50宽slide。
 ## 使用方法
